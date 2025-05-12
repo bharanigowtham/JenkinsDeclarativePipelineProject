@@ -47,7 +47,7 @@ public class Annotations {
 	
 	@AfterMethod
 	public void doLogout() {
-		System.out.println("AFTER METHOD -->Logging out from app....");
+		System.out.println("AFTER METHOD -->Test Completed....Logging out from app....");
 
 	}
 	
